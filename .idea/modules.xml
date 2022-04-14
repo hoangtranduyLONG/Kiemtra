@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Kiemtra.iml" filepath="$PROJECT_DIR$/Kiemtra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KiemTra.iml" filepath="$PROJECT_DIR$/KiemTra.iml" />
     </modules>
   </component>
 </project>
